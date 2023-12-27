@@ -1,8 +1,11 @@
 # Proyecto de eCommerce con Django
+Tutorial de [Dennis Ivy](https://www.youtube.com/watch?v=_ELCMngbM0E&list=PL-51WBLyFTg0omnamUjL1TCVov7yDTRng&ab_channel=DennisIvy)
+![Store](https://stepswithcode.s3-us-west-2.amazonaws.com/introduction/1+the+product.png)
 
 Este proyecto de eCommerce construido con Django incluye una serie de modelos que representan diferentes aspectos del sistema. Aquí se detallan las funciones de cada modelo:
 
 ## Modelos
+![Models](https://stepswithcode.s3.us-west-2.amazonaws.com/introduction/models.png)
 
 ### 1. USER
 - Modelo de Usuario incorporado en Django.
